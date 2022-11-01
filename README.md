@@ -2,8 +2,7 @@
 
 - 🔭 Atualmente estou em um projeto de extensão da UFPE
 - 🌱 Aprendendo sobre DataScience
-- 📫 How to reach me: https://www.linkedin.com/in/thiagorbotelho/
-- ⚡ Fun fact: ... ThiagorBotelho
+- 📫 Me encontre no Linkedin: https://www.linkedin.com/in/thiagorbotelho/
 
 <div align="center">
   <a href="https://github.com/ThiagorBotelho">
